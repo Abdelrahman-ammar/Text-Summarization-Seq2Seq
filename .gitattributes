@@ -3,3 +3,4 @@ Notebooks/**/* filter=lfs diff=lfs merge=lfs -text
 Tokenizers/**/* filter=lfs diff=lfs merge=lfs -text
 Deployment/**/* filter=lfs diff=lfs merge=lfs -text
 Deployment/**/__pycache__/* !filter !diff !merge text
+assets/**/* filter=lfs diff=lfs merge=lfs -text
